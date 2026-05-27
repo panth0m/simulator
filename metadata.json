@@ -1,0 +1,6 @@
+{
+  "name": "Upbit KRW Pro-Trading Simulator",
+  "description": "An advanced KRW coin trading program and simulator utilizing top-tier mechanical indicators, historical backtesting, and server-side Gemini AI for pro-vetted strategic insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
